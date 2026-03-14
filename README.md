@@ -28,5 +28,5 @@ Outside of class, I like breaking things down to understand how they work, wheth
 ## Get in touch
  
 - 📧 tranduckhang882@gmail.com
-- 💼 [linkedin.com/in/khangtd965](https://www.linkedin.com/in/khangtd965/)
+- 💼 [linkedin.com/in/KhangTran132/](https://www.linkedin.com/in/KhangTran132/)
 - 🐙 [github.com/KhangTran13](https://github.com/KhangTran13)
