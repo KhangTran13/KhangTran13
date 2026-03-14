@@ -8,10 +8,10 @@ Outside of class, I like breaking things down to understand how they work, wheth
  
 ## Interests
  
-- **Backend & logic** — I enjoy thinking about how data flows and how to keep code organized
-- **Databases** — learning how to model and query data has been one of the more satisfying parts of my studies so far
-- **Problem solving** — I genuinely like sitting with a hard problem, even when it's frustrating
-- **Open to learning** — currently curious about web development and how larger systems are built
+- **Backend & logic** - I enjoy thinking about how algorithms work
+- **Databases** - learning how to model and query data has been one of the more satisfying parts of my studies so far
+- **Problem solving** - I genuinely like sitting with a hard problem, even when it's frustrating
+- **Open to learning** - currently curious about web development and how larger systems are built
  
 ---
  
@@ -21,6 +21,7 @@ Outside of class, I like breaking things down to understand how they work, wheth
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  
 ---
  
